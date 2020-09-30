@@ -14,7 +14,7 @@
 
 ## Additional
 
-- You are encouraged to build the frontend with reusability in mind
+- You should build the frontend with code reusability, readability, and maintainability in mind.
 - You are also encouraged to show off knowledge in advance concepts in the framework/technology which the job position required within the confinement of time and use cases of the test. 
 
 
