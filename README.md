@@ -12,6 +12,13 @@
     - email 
     - body 
 
+## Additional
+
+- You are encouraged to build the frontend with reusability in mind
+- You are also encouraged to show off knowledge in advance concepts in the framework/technology which the job position required within the confinement of time and use cases of the test. 
+
+
 ## Notes
+
 - Once completed, send us a screenshot of all screens
 - Make your repo public, and send us the link for us to review
